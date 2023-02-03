@@ -1,3 +1,3 @@
 # NYCU-2021-spring-Database-final-project
 
-This is the final project of our database course in NYCU 2021 spring , and it is contributed by me and @kenny-wq[https://github.com/kenny-wq]
+This is the final project of our database course in NYCU 2021 spring , and it is contributed by me and kenny-wq(https://github.com/kenny-wq) , who is my teammate in this course.
